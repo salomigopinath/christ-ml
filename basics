@@ -1,0 +1,24 @@
+#1.python basics
+#2.variables
+#3.operators
+#4.datatypes
+#5.conditional statements
+#6.loops
+print("hello python")
+#datatypes:
+str,int,float,bool,list,tuple,dict
+#variabls is a container , it stores the data values.
+#ex 
+age=22
+name="priya"
+num=34.7
+is_pass=True
+
+print(type(name))
+#global variable: variable can be accessed anywhere in code
+#local variable: variable only accessed inside the function
+#1.arithmetic operator: + - * / // % **
+#2.comparison         : == != > < >= <=
+#3.logical operators  : and or not
+#4.membership         : in (not in)
+#5.identity           : is (is not)
